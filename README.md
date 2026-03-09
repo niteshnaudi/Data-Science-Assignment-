@@ -3,8 +3,8 @@
 # T20 Cricket Match Analytics: ICC Data Science Assignment
 
 > **Academic Details:**
-> * **Student Name:** Suraj Chauhan
-> * **Roll Number / ID:** 2472040
+> * **Student Name:** Nitesh Naudiyal
+> * **Roll Number / ID:** 2472031
 > * **Program Name:** BSc. (Hons) Computer Science
 > * **School / Department:** School of Technology
 > * **University Name:** Doon University
