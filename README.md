@@ -30,10 +30,6 @@ The notebook includes:
 
 International_T20_Data_Analysis.ipynb
 
-## Open in Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/Data-Science-Assignment-/blob/main/International_T20_Data_Analysis.ipynb)
-
 
 ## Repository Structure
 
