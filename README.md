@@ -32,20 +32,19 @@ The notebook includes:
 
 Open the notebook here:
 
-`International_T20_Data_Analysis.ipynb`
+International_T20_Data_Analysis.ipynb
 
 ## Open in Google Colab
 
-```md
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/Data-Science-Assignment-/blob/main/International_T20_Data_Analysis.ipynb)
-```
+
 
 ## Repository Structure
 
-```text
+
 ├── International_T20_Data_Analysis.ipynb
 ├── README.md
-```
+
 
 ## Features
 
