@@ -28,10 +28,6 @@ The notebook includes:
 * Matplotlib
 * Seaborn
 
-## Notebook
-
-Open the notebook here:
-
 International_T20_Data_Analysis.ipynb
 
 ## Open in Google Colab
