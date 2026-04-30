@@ -36,10 +36,8 @@ Open the notebook here:
 
 ## Open in Google Colab
 
-Replace `YOUR_USERNAME` with your GitHub username after uploading.
-
 ```md
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/YOUR_USERNAME/REPOSITORY_NAME/blob/main/International_T20_Data_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/niteshnaudi/Data-Science-Assignment-/blob/main/International_T20_Data_Analysis.ipynb)
 ```
 
 ## Repository Structure
